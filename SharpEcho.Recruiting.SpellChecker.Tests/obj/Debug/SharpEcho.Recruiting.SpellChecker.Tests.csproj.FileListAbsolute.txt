@@ -1,0 +1,12 @@
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Tests.pdb
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.dll
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.pdb
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.pdb
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\nunitlite.dll
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Tests.exe
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.exe

@@ -1,0 +1,5 @@
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\Kenneth\Desktop\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
